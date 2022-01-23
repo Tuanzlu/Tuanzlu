@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋</h1>
-
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Tuanzlu/count.svg" />
 </p>
@@ -27,6 +25,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/jindongwang">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=jindongwang&layout=compact" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=Tuanzlu&layout=compact" />
 </a>
 
