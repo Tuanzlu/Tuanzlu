@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m an undergraduate of Beihang University, majored in software engineering.
+- 🔭 I’m currently a front-end development intern.
+- 📫 How to reach me: 470935458@qq.com
+
+Warm hug to my visitors! 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Tuanzlu/count.svg" />
 </p>
 
-<p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Tuanzlu&show_icons=true&theme=radical&count_private=true" />
-</p>
 
